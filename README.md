@@ -14,12 +14,12 @@ This project leverages **Machine Learning** to provide automated healthcare advi
 ### 1. Feature Correlation
 Understanding how different health metrics relate to each other is crucial. The heatmap below shows the relationship between Recency, Frequency, Monetary, and Time.
 
-![Feature Correlation Heatmap](heatmap.png)
+<img width="1000" height="600" alt="heatmap" src="https://github.com/user-attachments/assets/433d2ba5-839c-4548-b187-325aa01be967" />
 
 ### 2. Recommendation Distribution
 The following chart displays the balance of our target classes within the dataset, helping us understand the frequency of healthcare recommendations generated.
 
-![Class Distribution](distribution.png)
+<img width="800" height="500" alt="distribution" src="https://github.com/user-attachments/assets/3637fb07-405c-49df-9cf0-c31cdf70a4ce" />
 
 ---
 
